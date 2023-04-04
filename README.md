@@ -1,4 +1,7 @@
+Olá      🙋‍♂️              
+
 Eu sou o Igor Xavier, dev full stack em construção e transição de carreira.
+
 Este espaço é onde estou colocando em pratica meus aprendizados. 
 
 
